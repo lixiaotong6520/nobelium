@@ -20,7 +20,7 @@ const BLOG = {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
-  notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
+  notionPageId:'e3c33d1e27c44894aebf242b89818e95process'// DO NOT CHANGE THIS！！！
   analytics: {
     provider: '', // Currently we support Google Analytics and Ackee, please fill with 'ga' or 'ackee', leave it empty to disable it.
     ackeeConfig: {
